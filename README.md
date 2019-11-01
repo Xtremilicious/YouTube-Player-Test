@@ -3,6 +3,8 @@ Frontend Developer Challenge: YouTube Player SPA
 
 Working Prototype: https://xtremilicious.github.io/YouTube-Player-Test
 
+Code: https://github.com/Xtremilicious/youtube-player-code
+
 Features: 
 1. Can add YouTube Links (with valid URL checking)
 2. Plays video from the top of the list
