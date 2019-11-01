@@ -6,7 +6,7 @@ Working Prototype: https://xtremilicious.github.io/YouTube-Player-Test
 Features: 
 1. Can add YouTube Links (with valid URL checking)
 2. Plays video from the top of the list
-3. Deletes video after being full played
+3. Deletes video after being fully played
 4. Remove videos from the list manually
 5. State Management using Redux
 
